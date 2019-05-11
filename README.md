@@ -5,4 +5,4 @@ Using a dataset comprised of songs of two music genres (Hip-Hop and Rock), I tra
 
 Next, I used the scikit-learn package to predict whether I can correctly classify a song's genre based on features such as danceability, energy, acousticness, tempo, etc. I went over implementations of common algorithms such as PCA, logistic regression and decision trees. Found that my model was biased because of skewed training and test samples which I solved by standard resampling. Although balancing removed bias it had a significant hit on the performance plummetting it down by about 5%. Achieved a final accuracy of 72.4% for Decision Tree and 77.5% for Logistic Regression. 
 
-You can open the [notebook.ipynb](https://github.com/abhinand5/Classifying-Song-Genres-From-Audio-Data/blob/master/notebook.ipynb) file to have a look at the code.
+You can open the [notebook.ipynb](https://github.com/abhinand5/Classifying-Song-Genres-From-Audio-Data/blob/master/notebook.ipynb) file to have a look at the code or view on [nbviewer](https://nbviewer.jupyter.org/github/abhinand5/Classifying-Song-Genres-From-Audio-Data/blob/master/notebook.ipynb) here.
